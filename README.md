@@ -79,6 +79,25 @@ You can clone the GitHub repository or download the project files as a zip file.
      source venv/bin/activate
      ```
 
+4. **Install Django and other dependencies**:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+5. **Set up the database**:
+
+   - Apply migrations:
+
+     ```bash
+     python manage.py migrate
+     ```
+
+   - Optionally, create a superuser for accessing the Django admin interface:
+
+     ```bash
+     python manage.py createsuperuser
+     ```
 
 6. **Run the Django server**:
 
