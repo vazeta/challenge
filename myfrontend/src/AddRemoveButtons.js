@@ -139,14 +139,14 @@ const AddRemoveButtons = ({ onBookAdded }) => {
                     />
                     <input 
                         type="text" 
-                        placeholder="Género" 
+                        placeholder="Género(separe por virgulas os diversos géneros)" 
                         value={newBook.genre}
                         onChange={(e) => setNewBook({ ...newBook, genre: e.target.value })}
                         style={{ marginBottom: '10px', width: '100%', padding: '8px' }}
                     />
                     <input 
                         type="number" 
-                        placeholder="Data de Publicação" 
+                        placeholder="Ano de Publicação" 
                         value={newBook.published_date}
                         onChange={(e) => setNewBook({ ...newBook, published_date: e.target.value })}
                         style={{ marginBottom: '10px', width: '100%', padding: '8px' }}

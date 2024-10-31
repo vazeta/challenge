@@ -10,7 +10,7 @@ const DisplayBooks = ({ books }) => {
                             <h3 style={{ color: '#ffffff' }}>{book.title}</h3>
                             <p>Autor: {book.author}</p>
                             <p>Género: {book.genre}</p>
-                            <p>Data de Publicação: {book.published_date}</p>
+                            <p>Ano de Publicação: {book.published_date}</p>
                             <p>Nº de páginas: {book.n_pages}</p>
                         </div>
                         {book.image && (
