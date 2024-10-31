@@ -18,11 +18,6 @@ This project involves developing a web platform for book management, including b
 
   - [Download Node.js](https://nodejs.org/)
 
-- **Git**: For cloning the project repository.
-
-  - [Download Git](https://git-scm.com/)
-
-- **Optional**: A virtual environment tool for Python (recommended to manage dependencies).
 
 ## Getting Started
 
