@@ -119,7 +119,7 @@ const AddRemoveButtons = ({ onBookAdded }) => {
                     transform: 'translate(-50%, -50%)',
                     backgroundColor: 'white',
                     padding: '20px',
-                    boxShadow: '10px 10px 10px',
+                    boxShadow: '10px 10px 40px',
                     zIndex: 1000
                 }}>
                     <h2>Adicionar Novo Livro</h2>
@@ -189,7 +189,7 @@ const AddRemoveButtons = ({ onBookAdded }) => {
                     transform: 'translate(-50%, -50%)',
                     backgroundColor: 'white',
                     padding: '20px',
-                    boxShadow: '10px 10px 10px',
+                    boxShadow: '10px 10px 40px',
                     zIndex: 1000
                 }}>
                     <h2>Remover Livro</h2>
