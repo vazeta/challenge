@@ -145,4 +145,4 @@ You can clone the GitHub repository or download the project files as a zip file.
 ## Additional Notes
 
 - Ensure both servers (Django and React) are running simultaneously for full functionality.
-- Environment-specific settings, such as API URLs and database configurations, should be managed via environment variables in `.env` files for Django and React.
+
