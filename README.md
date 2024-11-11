@@ -2,7 +2,7 @@
 
 ## Project: JekLibrary - Book Management Platform
 
-This project involves developing a web platform for book management, including both frontend and backend components. The frontend is built with React, and the backend is built with Django.
+This project involves developing a simple web platform for book management, including both frontend and backend components. The frontend is built with React, and the backend is built with Django.
 
 ## Prerequisites
 
